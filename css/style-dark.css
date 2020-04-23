@@ -26,6 +26,19 @@ Table of Content
 /* -----------------------------------
 		01. Body and Core Css
 ----------------------------------- */
+.iframe-container{
+	display: flex;
+	margin: 0 auto;
+
+}
+
+.iframe-container iframe{
+	justify-content: center;
+	margin: 0 auto;
+
+
+	
+}
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700');
 
 * {
